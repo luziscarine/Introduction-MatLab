@@ -1,0 +1,55 @@
+# Created by Octave 5.1.0, Wed Aug 31 10:52:35 2022 GMT <unknown@lmsii-08>
+# name: A
+# type: matrix
+# rows: 1
+# columns: 3
+ 4 2 3
+
+
+# name: B
+# type: sq_string
+# elements: 2
+# length: 3
+ABC
+# length: 3
+DFG
+
+
+# name: C
+# type: sq_string
+# elements: 1
+# length: 2
+AB
+
+
+# name: a
+# type: scalar
+3
+
+
+# name: ans
+# type: matrix
+# rows: 1
+# columns: 3
+ 16 4 9
+
+
+# name: b
+# type: scalar
+4
+
+
+# name: n
+# type: sq_string
+# elements: 1
+# length: 5
+Breno
+
+
+# name: name
+# type: sq_string
+# elements: 1
+# length: 5
+Breno
+
+
